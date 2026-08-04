@@ -1,0 +1,21 @@
+{
+  "name": "proyectom2_valentinafresia-",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valefresia/ProyectoM2_valentinaFresia-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valefresia/ProyectoM2_valentinaFresia-/issues"
+  },
+  "homepage": "https://github.com/valefresia/ProyectoM2_valentinaFresia-#readme",
+  "description": "API REST para MiniBlog (authors y posts) con Express y PostgreSQL"
+}
