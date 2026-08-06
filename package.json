@@ -22,7 +22,9 @@
   "dependencies": {
     "dotenv": "^16.x.x",
     "express": "^4.x.x",
-    "pg": "^8.x.x"
+    "pg": "^8.x.x",
+    "swagger-ui-express": "^5.0.0",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "jest": "^29.x.x",
