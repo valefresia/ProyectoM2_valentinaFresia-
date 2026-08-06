@@ -6,7 +6,7 @@ Construida con Node.js, Express y PostgreSQL. Desplegada en Railway.
 
 ## URL de la API
 
-> ⚠️ Completar después del deploy: `https://TU-APP.up.railway.app`
+>  Completar después del deploy: `https://TU-APP.up.railway.app`
 
 ## Tecnologías
 
